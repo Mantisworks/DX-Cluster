@@ -1,0 +1,4 @@
+How to make .exe:
+
+1. Install PyInstaller: pip install pyinstaller
+2. Compile: python -m PyInstaller --noconsole --onefile --icon=NONE "main.py"
